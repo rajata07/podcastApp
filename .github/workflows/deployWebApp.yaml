@@ -15,14 +15,13 @@ permissions:
   id-token: write
   contents: read
 
-# env variables
 env:
-  ENVIRONMENT_NAME: webapp
-  DEVCENTER_NAME: sf-devc-devcenter
+  ENVIRONMENT_NAME: podcast-dev
+  DEVCENTER_NAME: devBoxDemo
   PROJECT_NAME: Podcast-App
   ENVIRONMENT_TYPE: dev # Dev, Test, Prod
-  ENVIRONMENT_DEFINITION_NAME: WebApp
-  CATALOG_NAME: sf-dev-podcast-catalog
+  ENVIRONMENT_DEFINITION_NAME: podcast-project
+  CATALOG_NAME: PodCastApp
 
 jobs:
   # Build NodeJS App
