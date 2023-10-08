@@ -16,7 +16,7 @@ permissions:
   contents: read
 
 env:
-  ENVIRONMENT_NAME: podcast-dev
+  ENVIRONMENT_NAME: webapp
   DEVCENTER_NAME: devBoxDemo
   PROJECT_NAME: podcast-project
   ENVIRONMENT_TYPE: dev # Dev, Test, Prod
