@@ -20,7 +20,7 @@ env:
   DEVCENTER_NAME: devBoxDemo
   PROJECT_NAME: podcast-project
   ENVIRONMENT_TYPE: dev # Dev, Test, Prod
-  ENVIRONMENT_DEFINITION_NAME: podcast_app
+  ENVIRONMENT_DEFINITION_NAME: WebApp
   CATALOG_NAME: PodCastApp
 
 jobs:
