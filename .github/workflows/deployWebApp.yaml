@@ -18,9 +18,9 @@ permissions:
 env:
   ENVIRONMENT_NAME: podcast-dev
   DEVCENTER_NAME: devBoxDemo
-  PROJECT_NAME: Podcast-App
+  PROJECT_NAME: podcast-project
   ENVIRONMENT_TYPE: dev # Dev, Test, Prod
-  ENVIRONMENT_DEFINITION_NAME: podcast-project
+  ENVIRONMENT_DEFINITION_NAME: podcast_app
   CATALOG_NAME: PodCastApp
 
 jobs:
